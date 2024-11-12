@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "Arty\Cry Of Fear\Simon\fingers"
+	$nocull 1
+}
